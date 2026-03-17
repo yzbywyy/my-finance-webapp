@@ -45,7 +45,7 @@ START_DATE = "2023-01-01"
 END_DATE = "2026-01-01"
 OUTPUT_DIR = os.path.join("output")
 DEFAULT_CSV = os.path.join(OUTPUT_DIR, "csi300_if_2023_2026.csv")
-REPORT_HTML = os.path.join(OUTPUT_DIR, "report.html")
+REPORT_HTML = os.path.join(OUTPUT_DIR, "index.html")
 
 
 @dataclass
